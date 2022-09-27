@@ -1,7 +1,7 @@
+--Hello Skidder, Whats Up I Have Obfuscated This Script So You Cant Steal It.
+
+
 if game.PlaceId == 9992339729 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/DuckNFusionMods/DuckHub/main/Longest%20Answer%20Wins"))()
 end
 
-else
-  game.Players.LocalPlayer:Kick("Game not supported")
-end
