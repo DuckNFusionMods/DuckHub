@@ -11,3 +11,4 @@ elseif game.PlaceId == 4442272183 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/DuckNFusionMods/DuckHub/main/DuckHub%20(BloxFruit)", true))()
 elseif game.PlaceId == 7449423635 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/DuckNFusionMods/DuckHub/main/DuckHub%20(BloxFruit)", true))()
+end
