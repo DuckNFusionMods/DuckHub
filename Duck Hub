@@ -5,3 +5,4 @@ if game.PlaceId == 9992339729 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/DuckNFusionMods/DuckHub/main/Longest%20Answer%20Wins"))()
 elseif game.PlaceId == 286090429 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/DuckNFusionMods/DuckHub/main/Arsenal%20DuckHub", true))()
+end
