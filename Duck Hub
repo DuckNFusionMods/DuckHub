@@ -5,4 +5,9 @@ if game.PlaceId == 9992339729 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/DuckNFusionMods/DuckHub/main/Longest%20Answer%20Wins"))()
 elseif game.PlaceId == 286090429 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/DuckNFusionMods/DuckHub/main/Arsenal%20DuckHub", true))()
-end
+elseif game.PlaceId == 2753915549 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DuckNFusionMods/DuckHub/main/DuckHub%20(BloxFruit)", true))()
+elseif game.PlaceId == 4442272183 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DuckNFusionMods/DuckHub/main/DuckHub%20(BloxFruit)", true))()
+elseif game.PlaceId == 7449423635 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DuckNFusionMods/DuckHub/main/DuckHub%20(BloxFruit)", true))()
