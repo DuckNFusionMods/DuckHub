@@ -15,4 +15,9 @@ elseif game.PlaceId == 920587237 then
 loadstring(game:HttpGet('https://raw.githubusercontent.com/DuckNFusionMods/DuckHub/main/DuckHub%20Adopt%20Me'))()
 elseif game.PlaceId == 6872265039 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/DuckNFusionMods/DuckHub/main/DuckHub%20Bedwars", true))()
+elseif game.PlaceId == 8444591321 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DuckNFusionMods/DuckHub/main/DuckHub%20Bedwars", true))()
+elseif game.PlaceId == 8560631822 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DuckNFusionMods/DuckHub/main/DuckHub%20Bedwars", true))()
 end
+
